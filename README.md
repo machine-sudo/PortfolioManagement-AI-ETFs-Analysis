@@ -1,0 +1,2 @@
+# PortfolioManagement-AI-ETFs-Analysis
+In this project, I examined the performance of 5 large AI ETFs and assessed the risk environments. I described the distribution of the weekly returns using descriptive statistics including central tendency of returns, dispersion, and shape of the distribution. I analyzed the correlations, variance/covariance of the fund returns and compared relative risk among all funds. I computed the excess returns of each ETF and the two indexes separately. Used the Fama-French 3 factors model to estimate the alphas and betas.
